@@ -1,4 +1,4 @@
 # abacus
 Abacus in java
-Olde source location was
+Old source location was
 http://www.tux.org/~bagleyd/java/AbacusAppJS.html
